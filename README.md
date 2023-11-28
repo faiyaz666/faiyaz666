@@ -1,7 +1,7 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/05/12/22/78/360_F_512227820_NOv1C7RR3Su9kchsQjZOy8UM85J6Zayu.jpg)]
 <h1 align="center">Hi 👋, I'm Faiyaz Rafid</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align = "right" width = "400" src = "https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" alt = "pic">
+<img align = "right" width = "350" src = "https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg" alt = "pic">
 
 - 🔭 I’m currently working on **Java Springboot Framework**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android, Java, Python, Html, Css**
 
-- 📫 How to reach me **faiyazrafid5@gmail.com**
+- 📫 Reach me  at **faiyazrafid5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
