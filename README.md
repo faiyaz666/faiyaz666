@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/@rafid15_14509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rafid15_14509" height="30" width="40" /></a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/505444" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/452657937/1132479a-b4e2-476a-93c6-dc0fcabab6d6" alt="@rafid15_14509" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
